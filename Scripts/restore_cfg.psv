@@ -127,4 +127,4 @@ S|${HOME}/.config|bleachbit|bleachbit
 S|${HOME}/.config|nvim|neovim
 S|${HOME}/.config|chrome-flags.conf|chromium
 S|${HOME}/.local/share|hyprpm|hyprland
-S|${HOME}|.ryu-o|hyprland
+S|${HOME}|.ryu-o|dolphin
