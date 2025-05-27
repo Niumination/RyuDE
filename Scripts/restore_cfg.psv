@@ -119,5 +119,13 @@ S|${HOME}/.config/hypr|hyprlock|hyprlock
  Idle daemon 
 P|${HOME}/.config/hypr|hypridle.conf|hypridle
 
- My Preset 
-P|${HOME}|.UsefulCMD .ryu-o|hyprland
+ ZARYU 
+S|${HOME}/.config|agsv1|aylurs-gtk-shell-git
+S|${HOME}/.local/state/ags|scss|aylurs-gtk-shell-git
+S|${HOME}/.local/state/ags|user|aylurs-gtk-shell-git
+S|${HOME}/.config|bleachbit|bleachbit
+S|${HOME}/.config|nvim|neovim
+S|${HOME}/.config|chrome-flags.conf|chromium
+S|${HOME}/.local/share|hyprpm|hyprland
+S|${HOME}|.ryu-o|hyprland
+S|${HOME}|.UsefulCMD|hyprland
