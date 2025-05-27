@@ -14,5 +14,3 @@
 # Add your configurations here
 # export EDITOR=nvim
 export EDITOR=code
-
-source ~/.my-zsh
