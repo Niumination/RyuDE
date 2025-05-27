@@ -301,7 +301,7 @@ fi
 #bash install-ZaryuHiveThemeHyde.sh
 #cd ~/.UsefulCMD
 #bash nix-determinate.sh
-cd ~/.UsefulCMD
+cd ~/.ryu-o/post
 bash agsv1-installer.sh
 #cd ~/.UsefulCMD
 #bash auto-rotate-hyprland.sh
