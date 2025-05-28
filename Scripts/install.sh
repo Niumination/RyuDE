@@ -297,15 +297,6 @@ EOF
     done <"${scrDir}/system_ctl.lst"
 fi
 
-#cd ~/.UsefulCMD
-#bash install-ZaryuHiveThemeHyde.sh
-#cd ~/.UsefulCMD
-#bash nix-determinate.sh
-#cd ~/.ryu-o/post
-#bash agsv1-installer.sh
-#cd ~/.UsefulCMD
-#bash auto-rotate-hyprland.sh
-
 if [ $flg_Install -eq 1 ]; then
     print_log -stat "\nInstallation" "completed"
 fi
